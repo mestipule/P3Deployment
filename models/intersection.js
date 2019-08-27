@@ -11,3 +11,4 @@ const intersectionSchema = new Schema({
 const Intersection = mongoose.model("Intersection", intersectionSchema);
 
 module.exports = Intersection;
+
